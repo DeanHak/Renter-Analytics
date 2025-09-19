@@ -21,7 +21,7 @@ This project is a data engineering and analytics pipeline to apply the Kano Mode
 ## Setup
 
 1. **Clone the Repository**:  
-   `git clone https://github.com/DeanHak/kano-renter-analytics.git`  
+   `git clone https://github.com/DeanHak/Renter-analytics.git`  
    `cd kano-renter-analytics`
 
 2. **Install Dependencies**:  
